@@ -1,0 +1,62 @@
+h1{ 
+    font-family: 'Noto Serif', serif;
+}
+body{
+    background-color: #E0E5EC;
+    font-family: 'Noto Serif', serif;
+}
+.fs-3, .fs-4{
+    font-family: 'Noto Serif', serif;
+}
+#container1{
+    white-space: nowrap;
+}
+.Box1{ 
+    background-color: #E0E5EC;
+    transition: ease-out .9s;
+    font-weight: bold;
+    box-shadow: -9px -9px 25px #fff, 9px 9px 30px #A3B1C6;
+    border-radius: 10px;
+    display: inline-grid;
+    padding: 40px;
+}
+.Box2{ 
+    margin: 5px;
+    background-color: #E0E5EC;
+    transition: ease-out .7s;
+    font-weight: bold;
+    box-shadow: -9px -9px 25px #fff, 9px 9px 30px #A3B1C6;
+    border-radius: 10px;
+    display: inline-grid;
+    padding: 40px;
+}
+.Box3{ 
+    background-color: #E0E5EC;
+    transition: ease-out .9s;
+    font-weight: bold;
+    box-shadow: -9px -9px 25px #fff, 9px 9px 30px #A3B1C6;
+    border-radius: 10px;
+    display: inline-grid;
+    padding: 40px;
+}
+.Box1:hover{ 
+    cursor: pointer;
+    box-shadow: none;
+    transition:box-shadow .5s;
+}
+.Box2:hover{ 
+    cursor: pointer;
+    box-shadow: none;
+    transition:box-shadow .5s;
+}
+.Box3:hover{ 
+    cursor: pointer;
+    box-shadow: none;
+    transition:box-shadow .5s;
+}
+.object{
+    white-space: no-wrap;
+    object-fit:scale-down;
+    display: inline-grid;
+    
+}
