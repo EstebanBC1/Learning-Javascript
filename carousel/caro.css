@@ -1,0 +1,7 @@
+.carousel{ 
+    display: inline-grid;
+}
+.slide{ 
+    list-style: none;
+    padding-left: 0;
+}
